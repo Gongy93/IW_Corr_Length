@@ -38,7 +38,7 @@
          Correlation ellipses of internal waves around the Rowley Shoals within the entire model domain.
 		 
      (b) Corr_lengthscale_IWs.png:
-         A four-panel plot, characterizing internal waves properties (i.e. crest lengths, crest widths, and propagation directions) in a small domain.
+         A four-panel plot, characterizing internal waves properties (i.e. crest length, crest width, and propagation direction) in a small domain.
 	 				 
 ===========================================================================
 
