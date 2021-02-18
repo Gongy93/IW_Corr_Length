@@ -34,9 +34,11 @@
 
 3. Images in the folder
 		 
-     (a) Correlation ellipses of internal waves around the Rowley Shoals within the entire model domain.
+     (a) Corr_ellipse_IWs.png:
+         Correlation ellipses of internal waves around the Rowley Shoals within the entire model domain.
 		 
-     (b) A four-panel plot, characterizing internal waves properties (i.e. crest lengths, crest widths, and propagation directions) in a small domain.
+     (b) Corr_lengthscale_IWs.png:
+         A four-panel plot, characterizing internal waves properties (i.e. crest lengths, crest widths, and propagation directions) in a small domain.
 	 				 
 ===========================================================================
 
